@@ -14,7 +14,7 @@ const Pagina404 = () => (
       <a href="/">Você pode jogar ou voltar pra home :)</a>
     </p>
     <p>
-      Ou <a href="http:">aprender a fazer o jogo</a>
+      Ou <a href="https://google.com">aprender a fazer o jogo</a>
     </p>
 
     <iframe
